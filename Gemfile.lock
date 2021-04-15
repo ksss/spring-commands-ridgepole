@@ -1,0 +1,21 @@
+PATH
+  remote: .
+  specs:
+    spring-commands-ridgepole (1.0.0)
+      spring (>= 0.9.1)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    rake (13.0.3)
+    spring (2.1.1)
+
+PLATFORMS
+  arm64-darwin-20
+
+DEPENDENCIES
+  rake
+  spring-commands-ridgepole!
+
+BUNDLED WITH
+   2.2.15
